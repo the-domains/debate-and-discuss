@@ -1,0 +1,28 @@
+name: 'debate&discuss'
+favicon: null
+layout_spectrum: 0.13302029063925147
+typography_spectrum: 0.5743602013681084
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2457241432275623
+  lightness: 0.06064944760873914
+  saturation: 0.11450797109864652
+  rhythmicContrast: 0.3111077309586108
+purpose: []
